@@ -18,7 +18,7 @@
         "@vitejs/plugin-vue": "^4.1.0",
         "bcryptjs": "^2.4.3",
         "electron": "^23.1.1",
-        "electron-builder": "^23.6.0",
+        "electron-builder": "^24.6.3",
         "electron-forge": "^5.2.4",
         "typescript": "^5.0.2",
         "versiony": "^2.0.1",
